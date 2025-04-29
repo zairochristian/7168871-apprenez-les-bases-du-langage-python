@@ -1,1 +1,1 @@
-## Écrivez votre code ici !
+print ("Hello world")## Écrivez votre code ici !
